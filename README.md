@@ -87,10 +87,10 @@ Here are some ideas to get you started:
 
 ## :trophy: My Github Stats:
 <div>
-<a href="https://github-readme-stats.vercel.app/api?username=shadowlik&theme=github_dark">
+<a href="https://github-readme-stats.vercel.app/api?username=rrfaria&theme=github_dark">
   <img  align="left" src="https://github-readme-stats.vercel.app/api?username=rrfaria&count_private=true&show_icons=true&theme=github_dark" />
 </a>
-<a href="https://github-readme-stats.vercel.app/api/top-langs/?username=shadowlik&hide=php&theme=github_dark">
+<a href="https://github-readme-stats.vercel.app/api/top-langs/?username=rrfaria&hide=php&theme=github_dark">
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rrfaria&hide=php&theme=github_dark" />
 </a>
 </div>
